@@ -1,5 +1,5 @@
 {
-    "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+    "photo": "https://raw.githubusercontent.com/howtrojan/PORTFOLIO/main/assets/img/minhafoto.jpg",
     "name": "André S Braga",    
     "job": "Graduando em Análise e desenvolvimento de sistemas",
     "location": "Presidente Prudente - SP",
@@ -14,6 +14,10 @@
         {
           "name": "JavaScript",
           "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        },
+        {
+          "name": "PHP",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png"
         },
         {
           "name": "HTML",
