@@ -1,0 +1,75 @@
+{
+    "name": "André S Braga",    
+    "job": "Graduando em Análise e desenvolvimento de sistemas",
+    "location": "Presidente Prudente - SP",
+    "phone": "(18) 997682790",
+    "email": "andre.braga.asb@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        },
+        {
+          "name": "Flutter",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/flutter.png"
+        }       
+      ],
+      "softSkills": [
+        "Empatia",        
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (básico)"     
+    ],
+    "portfolio": [
+      {
+        "name": "Criação de uma Pokedex, curso Ministrado na DIO",
+        "url": "https://github.com/howtrojan/Pokedex-em-Javascript-HTML-CSS",
+        "github": true
+      },
+      {
+        "name": "Criação de uma página de portfolio, curso Ministrado na DIO",
+        "url": "https://github.com/howtrojan/PORTFOLIO/tree/main",
+        "github": true
+      },
+      {
+        "name": "JavaScript, formação completa, Curso Ministrado na DIO",
+        "url": "https://github.com/howtrojan/Curso-de-JavaScript",
+        "github": true
+      },
+      {
+        "name": "Cadastro COMPLETO em Flutter! CRUD... Create, Read, Update e Delete com integração do Firebase.",
+        "url": "https://github.com/howtrojan/Cadastro-de-Usuarios-em-Flutter",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Auxiliar de escritório - Centro Oeste Corretora de seguros",
+        "period": "2015 - Presente",
+        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      },  
+      {
+        "name": "Auxiliar administrativo - Dromo Tecidos",
+        "period": "2011 - 2015",
+        "description": "Serviços de estoque, vendas e auxilio geral das atividades da empresa"
+      }          
+    ]
+  }
